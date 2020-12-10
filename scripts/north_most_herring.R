@@ -1,0 +1,1 @@
+north_most_herring<-subset(apr, Lat > apr[which.max(apr$Pacific.herring), "Lat"])
